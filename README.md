@@ -12,4 +12,5 @@ I have NO past experience
 Future plans is to work as fullstack developer
 LinkedIn profile: https://www.linkedin.com/in/nuvvala-manoj-235621172/
 GitHub profile: https://github.com/manojnuvvala
-Photo :
+Photo : <img>C:\Users\s541998\OneDrive - nwmissouri.edu\Desktop\NUVVALA_Spring-2021-Final-Exam/PM04</img>
+
